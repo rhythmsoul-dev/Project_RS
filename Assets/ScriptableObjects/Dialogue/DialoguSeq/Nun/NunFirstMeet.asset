@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8409bcff7ff8c8b40ab5d963a639c3d5, type: 3}
+  m_Name: NunFirstMeet
+  m_EditorClassIdentifier: 
+  DialogueId: NunFirstMeet
+  Priority: 1
+  DialogueSequence:
+  - speaker: NPC
+    text: "\uB2E4\uD589\uD788\u2026 \uB2A6\uC9C0 \uC54A\uC73C\uC168\uAD70\uC694."
+  - speaker: NPC
+    text: "\uC800\uB294 \uBCA8\uB9AC\uC544. \uC774\uACF3\uC5D0 \uB0A8\uC740 \uB9C8\uC9C0\uB9C9
+      \uC218\uB140\uC785\uB2C8\uB2E4."
+  - speaker: NPC
+    text: "\uD3B8\uC9C0\uB85C\uB3C4 \uC804\uD574\uB4DC\uB838\uB4EF, \uC655\uAD6D\uC758
+      \uC0C1\uD669\uC740 \uC88B\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+  - speaker: NPC
+    text: "\uB9C8\uC9C0\uB9C9 \uD1A0\uBC8C\uB300\uAC00 \uB5A0\uB09C \uC774\uD6C4\uB85C\uB3C4,
+      \uC655\uAD81\uC5D0\uC11C \uBFDC\uC5B4\uC838 \uB098\uC624\uB294 \uC0AC\uC545\uD55C
+      \uAE30\uC6B4\uC740 \uC810\uC810 \uB354 \uC9D9\uC5B4\uC9C0\uACE0 \uC788\uC2B5\uB2C8\uB2E4."
+  - speaker: NPC
+    text: "\uC870\uC728\uC0AC\uB2D8\u2026 \uBD80\uB514 \uC774 \uC0AC\uD0DC\uB97C
+      \uBC14\uB85C\uC7A1\uC544 \uC8FC\uC138\uC694. "
+  - speaker: NPC
+    text: "\uC624\uC9C1 \uB2F9\uC2E0\uB9CC\uC774, \uC774 \uC7AC\uC559\uC744 \uBA48\uCD9C
+      \uC218 \uC788\uC2B5\uB2C8\uB2E4."

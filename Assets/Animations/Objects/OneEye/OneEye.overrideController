@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OneEye
+  m_Controller: {fileID: 9100000, guid: 84123fbbc7f9b054eace18f73ca9f340, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b19102972b9722b48b910af848b8c505, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d6ad7dac5e22b934cb4855573debb3db, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ac4a5453cd9aa6741943030b14241012, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 92e3538391d10c148a57b11781430bf0, type: 2}

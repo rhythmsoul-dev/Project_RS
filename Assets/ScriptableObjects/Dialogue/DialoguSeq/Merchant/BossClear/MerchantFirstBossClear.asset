@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8409bcff7ff8c8b40ab5d963a639c3d5, type: 3}
+  m_Name: MerchantFirstBossClear
+  m_EditorClassIdentifier: 
+  DialogueId: MerchantFirstBossClear
+  Priority: 4
+  DialogueSequence:
+  - speaker: NPC
+    text: "\uC624\uC624. \uADF8 \uAD34\uBB3C \uAC19\uC740 \uB188\uC744 \uC7A1\uC544\uB0C8\uAD6C\uBA3C"
+  - speaker: NPC
+    text: "\uB9AC\uC554\uC758 \uBE5A\uC744 \uAC1A\uC544\uC918\uC11C \uACE0\uB9D9\uB124."
+  - speaker: NPC
+    text: "\u2026\uB410\uC5B4, \uAD1C\uD788 \uAC10\uC0C1\uC801\uC774\uAD70."
+  - speaker: NPC
+    text: "\uC2AC\uC2AC \uB2E4\uC74C \uC0C1\uD488\uC744 \uAEBC\uB0B4\uB3C4 \uB418\uACA0\uC5B4.
+      \uC774\uC81C\uBD80\uD134 \uD48B\uB0B4\uAE30\uC5D0\uAC90 \uC544\uAE4C\uC6B4
+      \uBB3C\uAC74\uB4E4\uBFD0\uC774\uB2C8\uAE4C."
+  - speaker: NPC
+    text: "\uAE30\uB300\uD574\uB3C4 \uC88B\uB124."

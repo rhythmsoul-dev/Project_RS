@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3751e3b1ebd2846996bc1a75d4fa16, type: 3}
+  m_Name: Graveyard_0
+  m_EditorClassIdentifier: 
+  MapType: 1
+  MapIndex: 0
+  PortalLocations:
+  - PortalIndex: 0
+    Location: {x: 0, y: 2.1, z: 0}
+  - PortalIndex: 1
+    Location: {x: 385, y: 2.1, z: 0}
+  - PortalIndex: 2
+    Location: {x: 785, y: 2.1, z: 0}
+  - PortalIndex: 3
+    Location: {x: 800, y: 2.1, z: 0}

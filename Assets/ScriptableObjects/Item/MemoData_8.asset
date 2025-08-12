@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6241fc74e26b7554d9ebb446ad7f31d9, type: 3}
+  m_Name: MemoData_8
+  m_EditorClassIdentifier: 
+  Text: "[\uBAA8\uB974\uCE74\uC758 \uC77C\uAE30]\r\n\r\n\uB0B4\uAC00 \uC774 \uBCC0\uBC29\uC758
+    \uC18C\uAD6D\uAE4C\uC9C0 \uC640\uC11C, \uD314\uC790\uC5D0\uB3C4 \uC5C6\uB294
+    \uAD81\uC815\uC545\uC0AC \uD749\uB0B4\uB97C \uB0B4\uACE0 \uC788\uB294\uAC8C \uC6B0\uC2B5\uC9C0\uB9CC
+    \uC5B4\uCA54 \uC218 \uC5C6\uB2E4. \uC774\uACF3\uC758 \uC655\uB140\uAC00 \uAC00\uC7A5
+    \uC9C4\uD55C \uD53C\uB97C \uAC16\uACE0 \uC788\uC73C\uB2C8.\r\n\r\n\uC6B4\uC774
+    \uC88B\uAC8C\uB3C4, \uB9C8\uCE68 \uC655\uBE44\uAC00 \uC8FD\uC740 \uB4A4\uB85C
+    \uC2EC\uC57D\uD574\uC9C4 \uC655\uC744 \uAD6C\uC6CC\uC0B6\uB294 \uAC74 \uC26C\uC6E0\uB2E4.\r\n\uC81C\uC815\uC2E0\uC774\uC5C8\uB2E4\uBA74,
+    \uC774 \uB098\uB77C\uB3C4 \uC2DC\uAC04\uC774 \uC880 \uB354 \uAC78\uB838\uACA0\uC9C0\uB9CC.\r\n\r\n\uC774
+    \uBAA8\uB4E0 \uAC74 \uCD08\uC6D4\uC758 \uC21C\uAC04\uC744 \uC704\uD55C \uBC11\uC791\uC5C5\uC77C
+    \uBFD0.\r\n\uD544\uBA78\uC790\uC758 \uD55C\uACC4\uB97C \uBC97\uC5B4\uB098\uB294
+    \uAC83\uB3C4\u2026 \uACE7\uC774\uB2E4.\r\r"
+  ImagePath: Memo/Memo_1
+  MemoId: 8

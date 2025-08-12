@@ -1,0 +1,361 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: facbe8eca4f98fc41ad5a28572ef3760
+  m_SerializeEntries:
+  - m_GUID: 051151afd9c6e1e4189e52b33cc4f901
+    m_Address: "Assets/Sprites/Enemy/\uCCBC\uB85C\uC544\uCCD0_Png/\uCCBC\uB85C\uC544\uCCD0_01.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0835c91394c8676428b29545db6a3482
+    m_Address: Sprites/Note/Execution_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d0edca9f6ddbc64998f97db3dc43e28
+    m_Address: Sprites/Enemy/OneEyeKnight_Idle_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 100ee0a7208f4e64880c6f0071c342f7
+    m_Address: Sprites/Enemy/NoiseTemporal_Groggy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 178e53946d6d89346860435aca9e9a27
+    m_Address: Sprites/Enemy/BellHowler_Idle_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d89caead8ed0d4429e17d6948e19235
+    m_Address: Sprites/Note/Execution_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22eb7cc4f26d8c6419d94b7a677e1848
+    m_Address: Sprites/Enemy/LichMorka_Groggy_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30472c4f21686e84580fa8eaa840de9a
+    m_Address: Sprites/Enemy/FallenKing_Groggy_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30e2f807367deb843803cc7d7c3f4d0b
+    m_Address: Sprites/Enemy/HarpMagician_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32e9941c5eeadb8428295621fe8bc9de
+    m_Address: Sprites/Enemy/CelloArcher_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 367ea04ce9874a1429bd9fafb0e8083b
+    m_Address: SO/MapPortalData/Dungeon_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MapPortalData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 367f20c6826877147832e3ad16b8420c
+    m_Address: Sprites/Enemy/BellHowler_Groggy_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36cb985f9884e4a4baae322f557b5648
+    m_Address: Sprites/SheetMusic_Health_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40b62c329031a06439109efbf560d2b1
+    m_Address: Sprites/Enemy/CelloWalker_Groggy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 420004cc34689454cbfc17d471b3d74c
+    m_Address: Sprites/Enemy/FallenKing_Idle_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44ac5cbbe10b68a449e614adf1243663
+    m_Address: Sprites/Enemy/NoiseTemporal_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 458f3c8103d7c074d83bf5fd0c2e1abe
+    m_Address: Memo/Memo_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4982a9c9cccb0a34da3bcb508e7ae9ce
+    m_Address: Sprites/SheetMusic_Attack_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a97ce9343d06924cb4f49d2526f74d7
+    m_Address: CombatObject
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b8bba7ab23890a49b974836ee1f8547
+    m_Address: Sprites/Enemy/FallenKing_Idle_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51d09d77012072340a748825f99975a7
+    m_Address: SO/MapPortalData/Graveyard_0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MapPortalData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6237bd4cf3b81e74ab2960a43629a19a
+    m_Address: "Assets/Sprites/Enemy/CyclopsKnight/\uC678\uB208\uAE30\uC0AC_\uB300\uAE303.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62d1d9e527e107545802a55da9fddedd
+    m_Address: Sprites/SheetMusic_Balance_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6316dedf859309941baf09bf33e9874b
+    m_Address: Sprites/Enemy/LuteScavenger_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a23bd8255895a74ea0a161d00e5d98c
+    m_Address: Memo/Memo_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c996721c9e4ef147b45133e23fa761b
+    m_Address: Sprites/Note/Rhythm_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74e9f47647538694185d3e86f5a7e1f8
+    m_Address: Sprites/Enemy/CelloArcher_Attack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 794a43cef7a09b041afc7fce1879c6b5
+    m_Address: TutorialUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a38ea691d2ecb34284aad6abb59918a
+    m_Address: Sprites/Enemy/LichMorka_Idle_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f7b0bad2fb0bf84fb25964ecd2d2d28
+    m_Address: Sprites/Enemy/OneEye_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8128862cfe9ff944893b35135488fce3
+    m_Address: Sprites/Note/Rhythm_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8236085b216f1be42a0c48ec5386e2b3
+    m_Address: Sprites/Enemy/OneEyeKnight_Groggy_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 826223944128d6b4db0a86115157cb5a
+    m_Address: SO/MapPortalData/Dungeon_0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MapPortalData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84d351eb515744e47bb88267dd7f7b26
+    m_Address: Sprites/Enemy/TuningMan_Groggy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 856aa183829ecbc4d86671db1c68386c
+    m_Address: Sprites/Enemy/TuningMan_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86c081e5a6834ac458d668b0099d0495
+    m_Address: ScriptableObjects/ShopInventory_1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89b6ea5720aad6245abac6e66b207af2
+    m_Address: "Assets/Sprites/Enemy/\uD29C\uB2DD\uB9E8_Png/\uD29C\uB2DD\uB9E801.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d40c906861016543a08d865499223de
+    m_Address: Sprites/Enemy/BellHowler_Groggy_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 966c686c0e7f2414aa191628e202fc9c
+    m_Address: "Assets/Sprites/Enemy/CyclopsKnight/\uC678\uB208\uAE30\uC0AC_\uB300\uAE301.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 973d04ec95be3784f8fe6f5368a094c4
+    m_Address: Sprites/Enemy/CelloWalker_Attack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cbb5042822aac04790184bacbe031c5
+    m_Address: Sprites/Enemy/CelloArcher_Groggy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1aa8bf15fc94c04d84e294fde55a7c5
+    m_Address: Sprites/Note/Incount_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a53aeeedd0bb0454081ddbda9569631d
+    m_Address: Sprites/SheetMusic_Health_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a73b33cdf02031649a641a98868171f6
+    m_Address: Sprites/SheetMusic_Health_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa3d43db6147c914fb0470f8550b178d
+    m_Address: CombatUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad069d5c5d489e54ba5354bb84725841
+    m_Address: Assets/Sprites/Memo/scroll.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b068de0036bb9af41bd6df1c88f7d61f
+    m_Address: Sprites/Enemy/CelloWalker_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0c8029afdf9d584cbef1dfb8ffcbfdc
+    m_Address: Sprites/Enemy/LichMorka_Idle_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2b756a0e967d5445bed0beb21052665
+    m_Address: Sprites/Enemy/LichMorka_Groggy_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5ded5daaf445fb43b4180c882f9f43f
+    m_Address: Sprites/Enemy/OneEyeKnight_Idle_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b919a71d988a0b54b828ad0ab9ced973
+    m_Address: Sprites/Note/Rhythm_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9d46aad16603aa4c8310e43368c07a6
+    m_Address: Sprites/Enemy/OneEyeKnight_Groggy_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb5b3769cfaa87e43b0212e2d2518ace
+    m_Address: Memo/Memo_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c09082555e8fb234595f9fbfdb189668
+    m_Address: Sprites/Note/Rhythm_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0ec3658121ba0544996beb66965c1a7
+    m_Address: Sprites/Enemy/FallenKing_Groggy_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8c03ac4f5f7d5941a6d4ad7aefb85a5
+    m_Address: Sprites/Enemy/BellHowler_Idle_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce224e86849fe5243922d9bd00304f68
+    m_Address: Sprites/Enemy/TuningMan_Attack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d559ca6f39b536d4682784365c9cc520
+    m_Address: Sprites/Enemy/HarpMagician_Groggy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8de1b99fa774e9498ef3b7d096f3524
+    m_Address: Sprites/SheetMusic_Balance_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddc0005e58e2754408aaba3c6c5f0c30
+    m_Address: Sprites/Enemy/LuteScavenger_Groggy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df3c58eb2cfd16e448808a4dda396ad0
+    m_Address: Memo/Memo_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e054946522341d845aa46cd488491d1f
+    m_Address: Sprites/Enemy/MacabreDancer_Groggy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4bcc4c00740dc847be1bcb15519f76e
+    m_Address: Sprites/SheetMusic_Attack_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e84eacd7136292b43bbbb73d4f88f863
+    m_Address: Sprites/SheetMusic_Attack_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ead02cc129a43284eaeb870f87a04c9c
+    m_Address: Sprites/Enemy/MacabreDancer_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecb54adbb03ed6a49a83f62afeb57e5c
+    m_Address: Sprites/Note/Execution_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1c699544ffbcf844b2213afc74d02b5
+    m_Address: Sprites/SheetMusic_Balance_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aed21047f691d014084766de655c0480, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fda3e21fd27409e4ea17e9853c51642e, type: 2}
+    - {fileID: 11400000, guid: b89412d6159021e49846317262c9d123, type: 2}

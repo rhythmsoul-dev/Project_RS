@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8409bcff7ff8c8b40ab5d963a639c3d5, type: 3}
+  m_Name: MerchantFirstMeet
+  m_EditorClassIdentifier: 
+  DialogueId: MerchantFirstMeet
+  Priority: 1
+  DialogueSequence:
+  - speaker: NPC
+    text: "\uB204\uAD70\uC9C4 \uBAB0\uB77C\uB3C4\u2026 \uC774\uC81C \uC7A5\uC0AC
+      \uC811\uC5C8\uB124."
+  - speaker: NPC
+    text: "\uB2E4\uB978 \uB370\uB97C \uC54C\uC544\uBCF4\uC2DC\uC9C0\u2014 \u2026\uBCA8\uB9AC\uC544\uAC00
+      \uBCF4\uB0C8\uB2E4\uACE0?"
+  - speaker: NPC
+    text: "\uD5C8, \uADF8 \uC544\uC774\uB294 \uC544\uC9C1\uB3C4 \uD3EC\uAE30 \uC548
+      \uD588\uAD6C\uB9CC."
+  - speaker: NPC
+    text: "\uADF8\uB798 \uB098\uB294 \uC544\uC6B0\uB810\uB9AC\uC624\uB77C\uACE0 \uD558\uB124."
+  - speaker: NPC
+    text: "\uC810\uD3EC\uB97C \uC815\uB9AC\uD558\uB358 \uCC38\uC774\uC5C8\uB124\uB9CC,
+      \uBCA8\uB9AC\uC544\uC758 \uBD80\uD0C1\uC774\uB77C\uBA74 \uC5B4\uCA54 \uC218
+      \uC5C6\uC9C0."
+  - speaker: NPC
+    text: "\uC9C4\uC5F4\uB300\uAC00 \uC370\uB801\uD574\uB3C4 \uC774\uD574\uD574 \uC8FC\uAC8C"
+  - speaker: NPC
+    text: "\uD558\uC9C0\uB9CC \uADF8\uB300\uAC00 \uC790\uACA9\uC744 \uC99D\uBA85\uD55C\uB2E4\uBA74,
+      \uC870\uAE08 \uB354 \uADC0\uD55C \uAC83\uB3C4 \uB0B4\uBCF4\uC774\uC9C0."

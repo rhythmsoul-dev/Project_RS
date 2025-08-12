@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5a9fff192e2b9344a0dd22fec478170, type: 3}
+  m_Name: IntroList
+  m_EditorClassIdentifier: 
+  GuideList:
+  - Name: Intro1
+    Priority: 0
+    BossId: -1
+    Text: "\uC9D9\uC740 \uC548\uAC1C\uAC00 \uBB18\uC9C0\uB97C \uB36E\uACE0 \uC788\uC5C8\uB2E4.\r\n\uAE68\uC9C4
+      \uBB18\uBE44\uC640 \uD769\uC5B4\uC9C4 \uC720\uACE8 \uC0AC\uC774\uB85C, \uD55C
+      \uC0AC\uB78C\uC774 \uB9C8\uCC28\uC5D0\uC11C \uB0B4\uB838\uB2E4.\r"
+  - Name: Intro2
+    Priority: 0
+    BossId: -1
+    Text: "\uADF8\uB294 \uB9C8\uBD80\uC5D0\uAC8C \uC0AF\uC744 \uCE58\uB974\uACE0,
+      \uC870\uC6A9\uD788 \uD488\uC5D0\uC11C \uC624\uB798\uB41C \uC218\uCCA9 \uD558\uB098\uB97C
+      \uAEBC\uB0C8\uB2E4. \uADF8 \uC218\uCCA9\uC5D0\uB294, \uADF8\uB97C \uC774\uACF3\uC73C\uB85C
+      \uC774\uB048 \uD3B8\uC9C0\uAC00 \uC788\uC5C8\uB2E4."
+  - Name: Intro3
+    Priority: 0
+    BossId: -1
+    Text: "\uC218\uCCA9\uC5D0 \uC7A0\uC2DC \uC2DC\uC120\uC744 \uBA38\uBB38 \uB4A4,
+      \uADF8\uB294 \uBB35\uBB35\uD788 \uBC1C\uAC78\uC74C\uC744 \uC62E\uACBC\uB2E4.\r\n\uBA40\uC9C0
+      \uC54A\uC740 \uACF3\uC5D0 \uC131\uBCBD\uC774 \uC19F\uC544 \uC788\uC5C8\uACE0,
+      \uADF8 \uC55E \uC131\uBB38\uC5D0\uB294 \uC544\uC9C1 \uAEBC\uC9C0\uC9C0 \uC54A\uC740
+      \uCD1B\uBD88 \uD558\uB098\uAC00 \uBC14\uB78C\uC5D0 \uD754\uB4E4\uB9AC\uACE0
+      \uC788\uC5C8\uB2E4.\r\n\r\n"
+  - Name: Intro4
+    Priority: 0
+    BossId: -1
+    Text: "\uB9C8\uCE58, \uC544\uC9C1 \uB05D\uB098\uC9C0 \uC54A\uC740 \uC774\uC57C\uAE30\uB97C
+      \uAE30\uB2E4\uB9AC\uB294 \uAC83\uCC98\uB7FC.\r\n"

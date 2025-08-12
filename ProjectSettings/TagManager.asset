@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Note
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Objects
+  - Note
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2446690129
+    locked: 0
+  - name: MapBackGround
+    uniqueID: 2263339245
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Adventure
+    uniqueID: 3211197743
+    locked: 0
+  - name: MapForeGround
+    uniqueID: 484009043
+    locked: 0
+  - name: CombatUI
+    uniqueID: 3441740927
+    locked: 0
+  - name: Combat
+    uniqueID: 1026686697
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8409bcff7ff8c8b40ab5d963a639c3d5, type: 3}
+  m_Name: NunMemo4
+  m_EditorClassIdentifier: 
+  DialogueId: NunMemo4
+  Priority: 7
+  DialogueSequence:
+  - speaker: NPC
+    text: "[\uB9AC\uC554\uC758 \uAE30\uB85D]\uC744 \uC804\uB2EC\uD55C\uB2E4."
+  - speaker: NPC
+    text: "\uC774\uB7F0 \uC77C\uC774 \uC788\uC5C8\uB2E4\uB2C8\u2026"
+  - speaker: NPC
+    text: "\u2026"
+  - speaker: NPC
+    text: "\uADF8 \uC544\uC774\uC640\uB294 \uCE5C\uBD84\uC774 \uC788\uC5C8\uC2B5\uB2C8\uB2E4."
+  - speaker: NPC
+    text: "\uC790\uC8FC \uC608\uBC30\uC5D0 \uC624\uB358, \uBC1D\uACE0 \uC2E0\uC2E4\uD55C
+      \uC544\uC774\uC600\uAC70\uB4E0\uC694."
+  - speaker: NPC
+    text: "\uC774\uC820\u2026 \uB2E4\uC2DC \uBCFC \uC218 \uC5C6\uAC8C \uB418\uC5C8\uAD70\uC694."
+  - speaker: NPC
+    text: "\uAC10\uC0AC\uD569\uB2C8\uB2E4 \uC870\uC728\uC0AC\uB2D8"
+  - speaker: NPC
+    text: "\uADF8 \uC544\uC774\uB3C4 \uC774\uC820 \uD3B8\uD788 \uC7A0\uB4E4 \uC218
+      \uC788\uC744 \uAC70\uC5D0\uC694"
+  - speaker: NPC
+    text: "\uADF8\uB300\uC758 \uC55E\uAE38\uC5D0 \uBE5B\uC774 \uC788\uAE38\u2026"

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 670286f2341eef74eb4e57c4cdbbce67, type: 3}
+  m_Name: SheetMusicData_2
+  m_EditorClassIdentifier: 
+  Id: 2
+  Name: "\uC911\uB825\uC758 \uC545\uBCF4"
+  Description: "\uCCB4\uB825\uC774 \uC57D\uAC04 \uC99D\uAC00\uD55C\uB2E4."
+  Type: Base
+  AttackBonus: 0
+  HealthBonus: 10
+  BalanceGaugeBonus: 0
+  Price: 300
+  IconPath: Sprites/SheetMusic_Health_1

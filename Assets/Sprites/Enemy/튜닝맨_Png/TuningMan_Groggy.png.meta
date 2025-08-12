@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 84d351eb515744e47bb88267dd7f7b26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2071670824951995848
+    second: TuningMan_Groggy_0
+  - first:
+      213: 4121379379411587266
+    second: TuningMan_Groggy_1
+  - first:
+      213: 4076534589110754436
+    second: TuningMan_Groggy_2
+  - first:
+      213: -5355798873670514053
+    second: TuningMan_Groggy_3
+  - first:
+      213: -9103054025952951220
+    second: TuningMan_Groggy_4
+  - first:
+      213: 1215788080033223845
+    second: TuningMan_Groggy_5
+  - first:
+      213: -1044630445063555778
+    second: TuningMan_Groggy_6
+  - first:
+      213: 6352628043721629316
+    second: TuningMan_Groggy_7
+  - first:
+      213: 1494657346901069795
+    second: TuningMan_Groggy_8
+  - first:
+      213: -5962430669684313216
+    second: TuningMan_Groggy_9
+  - first:
+      213: 9119574291008624528
+    second: TuningMan_Groggy_10
+  - first:
+      213: -8593091957530802254
+    second: TuningMan_Groggy_11
+  - first:
+      213: -2074505505890720783
+    second: TuningMan_Groggy_12
+  - first:
+      213: 2512026029610659299
+    second: TuningMan_Groggy_13
+  - first:
+      213: -6848913221900655430
+    second: TuningMan_Groggy_14
+  - first:
+      213: 3607417090641651339
+    second: TuningMan_Groggy_15
+  - first:
+      213: -8773244809536969938
+    second: TuningMan_Groggy_16
+  - first:
+      213: 26293073294108208
+    second: TuningMan_Groggy_17
+  - first:
+      213: 379284127913616865
+    second: TuningMan_Groggy_18
+  - first:
+      213: -797521595065417791
+    second: TuningMan_Groggy_19
+  - first:
+      213: -1626890296216080215
+    second: TuningMan_Groggy_20
+  - first:
+      213: 2741652184888887020
+    second: TuningMan_Groggy_21
+  - first:
+      213: -5049921847718160653
+    second: TuningMan_Groggy_22
+  - first:
+      213: -4424144633585853049
+    second: TuningMan_Groggy_23
+  - first:
+      213: -486194068550909271
+    second: TuningMan_Groggy_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TuningMan_Groggy_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 827
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdddcc93ad00cc10800000000000000
+      internalID: 2071670824951995848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_1
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 826
+        width: 256
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09276a5b4123930800000000000000
+      internalID: 4121379379411587266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_2
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 314
+        width: 63
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c1a824c92c29830800000000000000
+      internalID: 4076534589110754436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_3
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a8e66fc416ca5b0800000000000000
+      internalID: -5355798873670514053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_4
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4482ebe7947ba180800000000000000
+      internalID: -9103054025952951220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4d88831d85fd010800000000000000
+      internalID: 1215788080033223845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35bd68152ab081f0800000000000000
+      internalID: -1044630445063555778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e56305c81192850800000000000000
+      internalID: 6352628043721629316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef47fe10f61eb410800000000000000
+      internalID: 1494657346901069795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083729f65e0314da0800000000000000
+      internalID: -5962430669684313216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_10
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0979a56008c3f8e70800000000000000
+      internalID: 9119574291008624528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b74c1d84643fb880800000000000000
+      internalID: -8593091957530802254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_12
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3aacccb30e533e0800000000000000
+      internalID: -2074505505890720783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6a795d528cd220800000000000000
+      internalID: 2512026029610659299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_14
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4a22736b5c3f0a0800000000000000
+      internalID: -6848913221900655430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b866e542bbe101230800000000000000
+      internalID: 3607417090641651339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e236200145c2f3680800000000000000
+      internalID: -8773244809536969938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036afbd29696d5000800000000000000
+      internalID: 26293073294108208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e52c31a7ec734500800000000000000
+      internalID: 379284127913616865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf3c61b552aee4f0800000000000000
+      internalID: -797521595065417791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_20
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0b28d25ef1c69e0800000000000000
+      internalID: -1626890296216080215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_21
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 4
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6c9f1e22e4c0620800000000000000
+      internalID: 2741652184888887020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_22
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6564bc5d21be9b0800000000000000
+      internalID: -5049921847718160653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_23
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d1a2855e74a92c0800000000000000
+      internalID: -4424144633585853049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuningMan_Groggy_24
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a20f141211b049f0800000000000000
+      internalID: -486194068550909271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TuningMan_Groggy_0: 2071670824951995848
+      TuningMan_Groggy_1: 4121379379411587266
+      TuningMan_Groggy_10: 9119574291008624528
+      TuningMan_Groggy_11: -8593091957530802254
+      TuningMan_Groggy_12: -2074505505890720783
+      TuningMan_Groggy_13: 2512026029610659299
+      TuningMan_Groggy_14: -6848913221900655430
+      TuningMan_Groggy_15: 3607417090641651339
+      TuningMan_Groggy_16: -8773244809536969938
+      TuningMan_Groggy_17: 26293073294108208
+      TuningMan_Groggy_18: 379284127913616865
+      TuningMan_Groggy_19: -797521595065417791
+      TuningMan_Groggy_2: 4076534589110754436
+      TuningMan_Groggy_20: -1626890296216080215
+      TuningMan_Groggy_21: 2741652184888887020
+      TuningMan_Groggy_22: -5049921847718160653
+      TuningMan_Groggy_23: -4424144633585853049
+      TuningMan_Groggy_24: -486194068550909271
+      TuningMan_Groggy_3: -5355798873670514053
+      TuningMan_Groggy_4: -9103054025952951220
+      TuningMan_Groggy_5: 1215788080033223845
+      TuningMan_Groggy_6: -1044630445063555778
+      TuningMan_Groggy_7: 6352628043721629316
+      TuningMan_Groggy_8: 1494657346901069795
+      TuningMan_Groggy_9: -5962430669684313216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
